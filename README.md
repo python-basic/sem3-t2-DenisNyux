@@ -1,10 +1,5 @@
-<<<<<<< HEAD
-# Самостоятельная работа по теме №2
-## Нюхалов Денис, ИВТ2
-=======
 # Тема 5. Понятие функции, объявление функций
-
->>>>>>> 748100a0253e6fc8daf2617577069d51bfe94e47
+## Нюхалов Денис, ИВТ2
 ### Инвариантная самостоятельная работа:
 Задание 1:
 ```python
@@ -47,6 +42,9 @@ def main():
 
 main()
 ```
+
+![Alt text](/res/i1.png)
+
 Задание 2:
 ```python
 """
@@ -81,6 +79,9 @@ def main():
 main()
 
 ```
+
+![Alt text](/res/i2.png)
+
 Задание 3:
 ```python
 def sample(lst):
@@ -98,6 +99,9 @@ def main():
 
 main()
 ```
+
+![Alt text](/res/i3.png)
+
 Задание 4:
 ![att1](/ISR/task4_attachment1.png)
 
@@ -121,10 +125,12 @@ def main():
 main()
 
 ```
-### Вариативная самостоятельная работа
-Задание 1:
 
-см. ISR/task1.docx
+![Alt text](/res/i4.png)
+
+### Вариативная самостоятельная работа
+[Задание 1](https://github.com/python-basic/sem3-t2-DenisNyux/blob/master/VSR/task1.pdf)
+
 
 Задание 2:
 ```python
@@ -148,6 +154,9 @@ main()
 
 ```
 
+
+![Alt text](/res/v2.png)
+
 Задание 3:
 ```python
 a = [1, 2, 3]
@@ -158,3 +167,5 @@ print(res)
 
 
 ```
+
+![Alt text](/res/v2.png)
