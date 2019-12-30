@@ -1,6 +1,6 @@
 def two_line_function(vals):
     res = set(vals)
-    return list(res)
+    return list(sorted(res))
 
 
 def main():
@@ -12,6 +12,6 @@ def main():
         i -= 1
     print('Введенные значения: ', values)
     print('Уникальные значения: ', two_line_function(values))
-
+    
 
 main()
